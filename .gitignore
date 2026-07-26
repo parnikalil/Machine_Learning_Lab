@@ -2,8 +2,10 @@
 __pycache__/
 .ipynb_checkpoints/
 data/raw/
-data/processed/
+!data/processed/
+!data/processed/olist_orders_abt.csv
 models/
 *.pkl
 *.joblib
 .env
+
